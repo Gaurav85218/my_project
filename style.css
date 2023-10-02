@@ -124,7 +124,7 @@ width: 83%;
     margin-left: 15px;
 }
 .maincontent{
-    background-image: url("hero-1.jpg");
+    background-image: url("hero_image.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     display: flex;
